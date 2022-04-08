@@ -761,8 +761,8 @@ a:Button("AKS",function()
     end
 end)
 
-a:Button("ZHS",function()
-    local ItemToSearchFor = "zhs" -- Item you want
+a:Button("Zsh",function()
+    local ItemToSearchFor = "zsh" -- Item you want
     local BlacklistedNames = {"Front", "Handle", "Hider"} -- Blacklisted Items
     
     function IsBlacklisted(Name)
