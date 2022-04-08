@@ -5,7 +5,7 @@ local w = library:CreateWindow("Project Delta") -- Creates the window
 
 local a = w:CreateFolder("Items") -- Creates the folder(U will put here your buttons,etc)
 
-a:Button("Aimbpt",function()
+a:Button("Aimbot",function()
     loadstring(game:HttpGet(('https://github.com/Shoplifter4722/Dolphin/blob/main/Delta')))()
 end)
 
