@@ -1,6 +1,6 @@
 local players = game:GetService("Players")
 ---------------SETTINGS
-local toCheck = {331884653, 50464767, 1325214718, 209115414, 492950799, 480028224, 23464315, 72424171, 3248886710, 3252863039, 115733667, 1443984069, 122336558, 385583913, 17698974, 112018154, 82434787, 1078421531, 60738975, 3248981945, 209115414, 3249145655, 2494008975, 17953224, 47197717}--Add the UserId's of the people you want to check for
+local toCheck = {331884653, 3248888276, 50464767, 1325214718, 209115414, 492950799, 480028224, 23464315, 72424171, 3248886710, 3252863039, 115733667, 1443984069, 122336558, 385583913, 17698974, 112018154, 82434787, 1078421531, 60738975, 3248981945, 209115414, 3249145655, 2494008975, 17953224, 47197717}--Add the UserId's of the people you want to check for
 local canLeave = false --If you want to auto leave the game then change this to true
 local canKick = true--If you have a anti client kick executed set this to false
 local notificationsEnabled = true -- set to false if the game can detect notifications
