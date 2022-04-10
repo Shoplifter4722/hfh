@@ -18,7 +18,7 @@ function notify(title,text,duritation)
     game:GetService("StarterGui"):SetCore("SendNotification",{
         Title = title;
         Text = text;
-        Duritation = duritation;
+        Duritation = 100;
     })
 end
 function crash(o)
